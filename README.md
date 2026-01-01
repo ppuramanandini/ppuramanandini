@@ -32,6 +32,7 @@ Git • GitHub • VS Code
 ---
 
 🏅 **Highlights & Activities**  
+🏆 SIH finalist 
 🏆 Participated in technical events, hackathons, and coding competitions  
 📈 Practicing problem-solving and programming fundamentals  
 🤝 Actively involved in academic and technical learning activities  
