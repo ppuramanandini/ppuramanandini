@@ -36,7 +36,10 @@ Git • GitHub • VS Code
 🏆 Participated in technical events, hackathons, and coding competitions  
 📈 Practicing problem-solving and programming fundamentals  
 🤝 Actively involved in academic and technical learning activities  
+**Internships**
+**Infosys Pragati Internship:** Gained hands-on experience in software development, problem-solving, and professional skills through Infosys’ flagship internship program.
 
+**IBM Internship**: Worked on live projects and gained exposure to emerging technologies and enterprise solutions at IBM.
 ---
 
 ✨ *Continuously learning, improving, and exploring opportunities in software, AI, and ML.*
